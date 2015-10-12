@@ -46,5 +46,6 @@
   <folder name="Relations" id="d1f93224" type="relations"/>
   <folder name="Views" id="499f9270" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" id="6acee066" name="Función de Negocio"/>
+    <element xsi:type="archimate:ArchimateDiagramModel" id="524014b2" name="Perspectiva de Organización"/>
   </folder>
 </archimate:model>
