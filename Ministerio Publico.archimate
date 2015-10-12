@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Ministerio Publico" id="18e53909" version="3.1.1">
+  <folder name="Business" id="e661fc0c" type="business">
+    <folder name="Funciones Area Administrativa" id="5d8cf04f">
+      <element xsi:type="archimate:BusinessFunction" id="a20169a4" name="Reuniones de Trabajo"/>
+      <element xsi:type="archimate:BusinessFunction" id="1353ea64" name="Comunicación Entre Dependencias de Insitución"/>
+      <element xsi:type="archimate:BusinessFunction" id="772f1712" name="Certificación de Documentos"/>
+      <element xsi:type="archimate:BusinessFunction" id="8af6bfcc" name="Distribución de Correspondencia"/>
+      <element xsi:type="archimate:BusinessFunction" id="33c566f5" name="Agendar Compromisos Privados "/>
+      <element xsi:type="archimate:BusinessFunction" id="c06fe228" name="Elaboración del Presupuesto Anual"/>
+      <element xsi:type="archimate:BusinessFunction" id="ce7a112e" name="Supervisar y Aprobar Ejecución de Gastos"/>
+      <element xsi:type="archimate:BusinessFunction" id="00b989ad" name="Control de Operaciones Presupuestarias"/>
+      <element xsi:type="archimate:BusinessFunction" id="7d841ef9" name="Elaboración de Reportes de Ingresos y Egresos"/>
+      <element xsi:type="archimate:BusinessFunction" id="90a0e582" name="Análisis Financiero"/>
+      <element xsi:type="archimate:BusinessFunction" id="942af08d" name="Control de Inventario de Bienes"/>
+      <element xsi:type="archimate:BusinessFunction" id="6a26c12d" name="Análisis de Tendencias Delincuencial"/>
+      <element xsi:type="archimate:BusinessFunction" id="d7df01ca" name="Definir Políticas de Combate Al Crimen"/>
+      <element xsi:type="archimate:BusinessFunction" id="a65a2dbd" name="Supervisión de Compra y Contratación"/>
+    </folder>
+    <folder name="FuncionesArea de Fiscalias" id="9449e6ec">
+      <element xsi:type="archimate:BusinessFunction" id="3ed476f2" name="Acción Civil contra delitos"/>
+      <element xsi:type="archimate:BusinessFunction" id="9b236344" name="Acción Penal Pública"/>
+      <element xsi:type="archimate:BusinessFunction" id="0caabdd2" name="Atención a la victima del delito"/>
+      <element xsi:type="archimate:BusinessFunction" id="54524a48" name="Conservación y mantenimiento de expedientes"/>
+      <element xsi:type="archimate:BusinessFunction" id="66c93c84" name="Creación y Ubicación de Fiscalías"/>
+      <element xsi:type="archimate:BusinessFunction" id="94c5ee08" name="Dirigir Policía Nacional Civil"/>
+      <element xsi:type="archimate:BusinessFunction" id="9be5a0b8" name="Investigación de Delitos"/>
+      <element xsi:type="archimate:BusinessFunction" id="189de756" name="Persecución y Acción Penal en Áreas delimitadas"/>
+      <element xsi:type="archimate:BusinessFunction" id="8c4d4444" name="Proponer Nombramientos Fiscalias"/>
+      <element xsi:type="archimate:BusinessFunction" id="d60eeef7" name="Protección de sujetos procesales y testigos"/>
+      <element xsi:type="archimate:BusinessFunction" id="4dd54f00" name="Protección y Preservación de Evidencias"/>
+      <element xsi:type="archimate:BusinessFunction" id="01c80a4f" name="Registro de Denuncias"/>
+      <element xsi:type="archimate:BusinessFunction" id="ce82dfb7" name="Registro de Prevención Policial"/>
+      <element xsi:type="archimate:BusinessFunction" id="d1ae38fb" name="Registro de Proceso"/>
+      <element xsi:type="archimate:BusinessFunction" id="99f926f7" name="Registros estadísticos de casos ingresados"/>
+      <element xsi:type="archimate:BusinessFunction" id="c1680d6b" name="Reportes Mensuales de Actividades"/>
+      <element xsi:type="archimate:BusinessFunction" id="d0a4d4f9" name="Solicitud de Apoyo Técnico en investigaciones"/>
+    </folder>
+    <folder name="Actores y Departamentos" id="ed4607d8"/>
+  </folder>
+  <folder name="Application" id="ca9b11c5" type="application"/>
+  <folder name="Technology" id="ca622df3" type="technology"/>
+  <folder name="Motivation" id="3c8e69b3" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="b6eb381e" type="implementation_migration"/>
+  <folder name="Connectors" id="624c9367" type="connectors"/>
+  <folder name="Relations" id="d1f93224" type="relations"/>
+  <folder name="Views" id="499f9270" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" id="6acee066" name="Función de Negocio"/>
+  </folder>
+</archimate:model>
