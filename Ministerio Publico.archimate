@@ -1144,5 +1144,6 @@ la organización.</content>
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" id="c313851a" name="Perspectiva de Realización de Servicio"/>
+    <element xsi:type="archimate:ArchimateDiagramModel" id="93209a68" name="Perspectiva Introductoria"/>
   </folder>
 </archimate:model>
