@@ -1064,7 +1064,7 @@ la organización.</content>
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="ec60b2ae" textAlignment="2" fillColor="#8080ff" archimateElement="de41aeca">
-        <bounds x="395" y="525" width="120" height="55"/>
+        <bounds x="395" y="525" width="120" height="76"/>
         <sourceConnection xsi:type="archimate:Connection" id="a23863a4" source="ec60b2ae" target="57ab13da" relationship="5c37a407">
           <bendpoint startX="50" startY="-110" endX="-240" endY="106"/>
         </sourceConnection>
@@ -1098,9 +1098,6 @@ la organización.</content>
           <bendpoint startX="684" startY="82" endX="12" endY="-86"/>
         </sourceConnection>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="6c7843fc" textAlignment="2" fillColor="#8080ff" archimateElement="84e1013c">
-        <bounds x="264" y="525" width="120" height="55"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="42f97a32" textAlignment="2" fillColor="#8080ff" archimateElement="381532cb">
         <bounds x="456" y="189" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="ccb79417" source="42f97a32" target="e19ea18e" relationship="555752bc"/>
@@ -1108,7 +1105,9 @@ la organización.</content>
       </child>
       <child xsi:type="archimate:DiagramObject" id="5271283b" textAlignment="2" fillColor="#8080ff" archimateElement="5d3a9198">
         <bounds x="828" y="516" width="120" height="73"/>
-        <sourceConnection xsi:type="archimate:Connection" id="49bb5b61" source="5271283b" target="e19ea18e" relationship="ebd00b15"/>
+        <sourceConnection xsi:type="archimate:Connection" id="49bb5b61" source="5271283b" target="e19ea18e" relationship="ebd00b15">
+          <bendpoint startX="24" startY="-168" endX="406" endY="36"/>
+        </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="57ab13da" textAlignment="2" targetConnections="94120319 a23863a4" archimateElement="3b970c28">
         <bounds x="684" y="309" width="120" height="55"/>
