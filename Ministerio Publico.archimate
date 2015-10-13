@@ -1099,7 +1099,7 @@ la organización.</content>
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="42f97a32" textAlignment="2" fillColor="#8080ff" archimateElement="381532cb">
-        <bounds x="456" y="189" width="120" height="55"/>
+        <bounds x="420" y="168" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="ccb79417" source="42f97a32" target="e19ea18e" relationship="555752bc"/>
         <sourceConnection xsi:type="archimate:Connection" id="63a730cb" source="42f97a32" target="c146358f" relationship="9f55121b"/>
       </child>
