@@ -936,7 +936,7 @@ la organización.</content>
         </child>
       </child>
       <child xsi:type="archimate:DiagramObject" id="828be537" textAlignment="2" archimateElement="bf125e06">
-        <bounds x="590" y="192" width="131" height="173"/>
+        <bounds x="572" y="192" width="131" height="173"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="70ecbc16" textAlignment="2" archimateElement="0ba55800">
         <bounds x="1116" y="182" width="169" height="767"/>
@@ -1430,6 +1430,7 @@ la organización.</content>
       <child xsi:type="archimate:DiagramObject" id="b4e441ba" textAlignment="2" targetConnections="8c085f6c 84d5328a" archimateElement="8452ccd7">
         <bounds x="1908" y="312" width="120" height="55"/>
       </child>
+<<<<<<< HEAD
       <child xsi:type="archimate:DiagramObject" id="8c30bf67" textAlignment="2" targetConnections="20c090ae" archimateElement="ef696c0d">
         <bounds x="1104" y="834" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="1efc365e" source="8c30bf67" target="32ccdc47" relationship="15cd5660"/>
@@ -1441,6 +1442,8 @@ la organización.</content>
       <child xsi:type="archimate:DiagramObject" id="72716892" textAlignment="2" archimateElement="787fe0c5">
         <bounds x="1063" y="1080" width="202" height="90"/>
       </child>
+=======
+>>>>>>> refs/remotes/origin/master
     </element>
   </folder>
 </archimate:model>
