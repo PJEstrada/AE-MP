@@ -1233,6 +1233,9 @@ la organización.</content>
     </element>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
     <element xsi:type="archimate:ArchimateDiagramModel" id="c313851a" name="Perspectiva de Realización de Servicio"/>
     <element xsi:type="archimate:ArchimateDiagramModel" id="93209a68" name="Perspectiva Introductoria">
       <child xsi:type="archimate:DiagramObject" id="b3838b3f" textAlignment="2" archimateElement="e94d6628">
