@@ -1187,7 +1187,7 @@ la organización.</content>
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="42f97a32" textAlignment="2" fillColor="#8080ff" archimateElement="381532cb">
-        <bounds x="456" y="189" width="120" height="55"/>
+        <bounds x="420" y="168" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="ccb79417" source="42f97a32" target="e19ea18e" relationship="555752bc"/>
         <sourceConnection xsi:type="archimate:Connection" id="63a730cb" source="42f97a32" target="c146358f" relationship="9f55121b"/>
       </child>
@@ -1232,6 +1232,7 @@ la organización.</content>
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" id="c313851a" name="Perspectiva de Realización de Servicio"/>
+<<<<<<< HEAD
     <element xsi:type="archimate:ArchimateDiagramModel" id="93209a68" name="Perspectiva Introductoria">
       <child xsi:type="archimate:DiagramObject" id="b3838b3f" textAlignment="2" archimateElement="e94d6628">
         <bounds x="252" y="444" width="120" height="55"/>
@@ -1422,5 +1423,8 @@ la organización.</content>
         <bounds x="1908" y="312" width="120" height="55"/>
       </child>
     </element>
+=======
+    <element xsi:type="archimate:ArchimateDiagramModel" id="93209a68" name="Perspectiva Introductoria"/>
+>>>>>>> refs/remotes/origin/master
   </folder>
 </archimate:model>
