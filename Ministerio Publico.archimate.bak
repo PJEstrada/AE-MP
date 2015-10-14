@@ -1143,7 +1143,11 @@ la organización.</content>
         <bounds x="1776" y="693" width="120" height="55"/>
       </child>
     </element>
-    <element xsi:type="archimate:ArchimateDiagramModel" id="c313851a" name="Perspectiva de Realización de Servicio"/>
+    <element xsi:type="archimate:ArchimateDiagramModel" id="c313851a" name="Perspectiva de Realización de Servicio">
+      <child xsi:type="archimate:DiagramObject" id="1c079c5f" textAlignment="2" archimateElement="90c2cbbe">
+        <bounds x="198" y="263" width="120" height="55"/>
+      </child>
+    </element>
     <element xsi:type="archimate:ArchimateDiagramModel" id="93209a68" name="Perspectiva Introductoria"/>
   </folder>
 </archimate:model>
