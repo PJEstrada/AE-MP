@@ -929,7 +929,7 @@ la organización.</content>
         </child>
       </child>
       <child xsi:type="archimate:DiagramObject" id="828be537" textAlignment="2" archimateElement="bf125e06">
-        <bounds x="590" y="192" width="131" height="173"/>
+        <bounds x="572" y="192" width="131" height="173"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="70ecbc16" textAlignment="2" archimateElement="0ba55800">
         <bounds x="1116" y="182" width="169" height="767"/>
@@ -1234,6 +1234,9 @@ la organización.</content>
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
 =======
 >>>>>>> refs/remotes/origin/master
     <element xsi:type="archimate:ArchimateDiagramModel" id="c313851a" name="Perspectiva de Realización de Servicio"/>
@@ -1429,6 +1432,7 @@ la organización.</content>
         <bounds x="1908" y="312" width="120" height="55"/>
       </child>
     </element>
+<<<<<<< HEAD
 =======
     <element xsi:type="archimate:ArchimateDiagramModel" id="c313851a" name="Perspectiva de Realización de Servicio">
       <child xsi:type="archimate:DiagramObject" id="1c079c5f" textAlignment="2" archimateElement="90c2cbbe">
@@ -1439,6 +1443,8 @@ la organización.</content>
     <element xsi:type="archimate:ArchimateDiagramModel" id="c313851a" name="Perspectiva de Realización de Servicio"/>
 >>>>>>> parent of 10bc5c0... Agregado cliente
     <element xsi:type="archimate:ArchimateDiagramModel" id="93209a68" name="Perspectiva Introductoria"/>
+>>>>>>> refs/remotes/origin/master
+=======
 >>>>>>> refs/remotes/origin/master
   </folder>
 </archimate:model>
