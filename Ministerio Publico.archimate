@@ -2066,6 +2066,10 @@ la organización.</content>
           <bounds x="528" y="240" width="120" height="55"/>
         </child>
       </child>
+      <child xsi:type="archimate:Note" id="b0fe3e01" textAlignment="1">
+        <bounds x="681" y="77" width="185" height="80"/>
+        <content>Se incluye a gente interna?</content>
+      </child>
     </element>
   </folder>
 </archimate:model>

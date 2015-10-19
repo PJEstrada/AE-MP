@@ -190,7 +190,7 @@
     <element xsi:type="archimate:BusinessService" id="87ce61d9" name="Control de Gastos y Presupuesto"/>
     <element xsi:type="archimate:BusinessService" id="8452ccd7" name="Servicio de Operaciones "/>
     <element xsi:type="archimate:BusinessActor" id="0493355a" name="Secretaría de Política Criminal"/>
-    <element xsi:type="archimate:Product" id="df6b6c3f" name="Servicios Públicos Fiscales para el Ciudadano"/>
+    <element xsi:type="archimate:Product" id="df6b6c3f" name="Servicios Públicos para el Ciudadano"/>
   </folder>
   <folder name="Application" id="ca9b11c5" type="application">
     <element xsi:type="archimate:ApplicationService" id="ef696c0d" name="Registro de Denuncias"/>
@@ -1116,7 +1116,7 @@ la organización.</content>
         </child>
       </child>
       <child xsi:type="archimate:DiagramObject" id="828be537" textAlignment="2" archimateElement="bf125e06">
-        <bounds x="572" y="192" width="131" height="173"/>
+        <bounds x="577" y="182" width="131" height="173"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="70ecbc16" textAlignment="2" archimateElement="0ba55800">
         <bounds x="1116" y="182" width="169" height="767"/>
