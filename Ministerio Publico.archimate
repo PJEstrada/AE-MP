@@ -161,6 +161,7 @@
       <element xsi:type="archimate:BusinessProcess" id="9048098e" name="Realizar Reportes de Ingresos/Egresos"/>
       <element xsi:type="archimate:BusinessProcess" id="3b1fa128" name="Realizar Análisis Financiero"/>
       <element xsi:type="archimate:BusinessProcess" id="289702dd" name="Realizar Supervisión/Aprobación de Gastos y Contrataciones"/>
+      <element xsi:type="archimate:BusinessProcess" id="c2472e2f" name="Creación de Informes Mensuales"/>
     </folder>
     <element xsi:type="archimate:BusinessActor" id="e94d6628" name="Ciudadano"/>
     <element xsi:type="archimate:BusinessFunction" id="8e20dcee" name="Acción Civil contra Delitos"/>
@@ -177,7 +178,7 @@
     <element xsi:type="archimate:BusinessFunction" id="3fca1b09" name="Prevención Policial"/>
     <element xsi:type="archimate:BusinessFunction" id="9a81d199" name="Denuncias"/>
     <element xsi:type="archimate:BusinessFunction" id="53a178d0" name="Procesos"/>
-    <element xsi:type="archimate:BusinessFunction" id="ef2c8c03" name="Estadísticas de Casos"/>
+    <element xsi:type="archimate:BusinessFunction" id="ef2c8c03" name="Denuncias por escrito"/>
     <element xsi:type="archimate:BusinessFunction" id="332fc328" name="Reporte de Actividades"/>
     <element xsi:type="archimate:BusinessFunction" id="8841cebb" name="Solicitud de Apoyo en Investigaciones"/>
     <element xsi:type="archimate:BusinessFunction" id="17227bde" name="Agendar Compromisos Privados"/>
@@ -217,7 +218,7 @@
     <element xsi:type="archimate:ApplicationService" id="058ed97a" name="Gestionar la Distribución de Apoyo"/>
     <element xsi:type="archimate:ApplicationService" id="2e11a531" name="Monitorear Desempeño de la PNC"/>
     <element xsi:type="archimate:ApplicationService" id="10b56605" name="Resguardo de Evidencias y Expedientes"/>
-    <element xsi:type="archimate:ApplicationService" id="59785995" name="Servicios de Escolta y Seguridad"/>
+    <element xsi:type="archimate:ApplicationService" id="59785995" name="Servicio de Protección al testigo"/>
     <element xsi:type="archimate:ApplicationComponent" id="af9b6fd8" name="SAP ERP PNC"/>
     <element xsi:type="archimate:ApplicationService" id="63309e3b" name="Control de Víctimas"/>
     <element xsi:type="archimate:ApplicationService" id="555b0acd" name="Análisis de Evidencias"/>
@@ -1579,9 +1580,6 @@ la organización.</content>
           <child xsi:type="archimate:DiagramObject" id="c9d90b77" textAlignment="2" archimateElement="53a178d0">
             <bounds x="300" y="60" width="120" height="55"/>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="c2c84123" textAlignment="2" archimateElement="ef2c8c03">
-            <bounds x="156" y="96" width="120" height="55"/>
-          </child>
         </child>
         <child xsi:type="archimate:DiagramObject" id="2c8d1200" textAlignment="2" targetConnections="4e5f2b34 07e4efdd" archimateElement="d7c091fd">
           <bounds x="312" y="24" width="120" height="55"/>
@@ -2224,7 +2222,7 @@ la organización.</content>
         <sourceConnection xsi:type="archimate:Connection" id="c84bc7cb" source="d46fbe68" target="1ef52e78" relationship="1acc6205"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="422eacff" textAlignment="2" archimateElement="d8df9070">
-        <bounds x="1740" y="356" width="120" height="55"/>
+        <bounds x="1740" y="356" width="120" height="77"/>
         <sourceConnection xsi:type="archimate:Connection" id="ea5c9923" source="422eacff" target="99adcb82" relationship="a553f482"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="a81fbfa8" textAlignment="2" archimateElement="8e20294a">
@@ -2260,6 +2258,47 @@ la organización.</content>
       <child xsi:type="archimate:DiagramObject" id="f5e8c709" textAlignment="2" archimateElement="289702dd">
         <bounds x="2340" y="369" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="8a486cbb" source="f5e8c709" target="1e9837e6" relationship="2ef725ad"/>
+      </child>
+    </element>
+    <element xsi:type="archimate:ArchimateDiagramModel" id="553f08f9" name="Cooperación de Procesos de Negocio">
+      <child xsi:type="archimate:DiagramObject" id="a6307b0a" textAlignment="2" archimateElement="b6da5ae7">
+        <bounds x="204" y="636" width="685" height="133"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="0d7fd5eb" textAlignment="2" archimateElement="a4f22a46">
+        <bounds x="204" y="408" width="157" height="61"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="eecd9fad" textAlignment="2" archimateElement="9834f090">
+        <bounds x="204" y="792" width="685" height="97"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="f851ece3" textAlignment="2" archimateElement="6ff9be68">
+        <bounds x="204" y="324" width="157" height="61"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="88d168ca" textAlignment="2" archimateElement="79cd8cb4">
+        <bounds x="204" y="252" width="157" height="61"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="da4d2686" textAlignment="2" archimateElement="289702dd">
+        <bounds x="204" y="480" width="157" height="73"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="367f7d74" textAlignment="2" archimateElement="c2472e2f">
+        <bounds x="204" y="558" width="157" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="8fb65045" textAlignment="2" fillColor="#00ff80" archimateElement="90a0e582">
+        <bounds x="564" y="36" width="120" height="193"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="5f195be4" textAlignment="2" fillColor="#00ff80" archimateElement="7d841ef9">
+        <bounds x="420" y="36" width="120" height="193"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="4a7d3d69" textAlignment="2" fillColor="#00ff80" archimateElement="80e405aa">
+        <bounds x="708" y="36" width="120" height="193"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="be51b58c" textAlignment="2" fillColor="#00ff80" archimateElement="00b989ad">
+        <bounds x="852" y="30" width="133" height="205"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="7a6d1817" textAlignment="2" archimateElement="1c4dbeb9">
+        <bounds x="360" y="96" width="673" height="103"/>
+        <child xsi:type="archimate:DiagramObject" id="558fcce5" textAlignment="2" archimateElement="3b1fa128">
+          <bounds x="24" y="24" width="120" height="55"/>
+        </child>
       </child>
     </element>
   </folder>
