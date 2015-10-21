@@ -3817,19 +3817,5 @@ la organización.</content>
         <sourceConnection xsi:type="archimate:Connection" id="06a99bfd" source="1a5c15db" target="f46af8ec" relationship="abd8ecfb"/>
       </child>
     </element>
-    <element xsi:type="archimate:ArchimateDiagramModel" id="cba28de4" name="Generated View for Departamento de Seguridad y Protección">
-      <child xsi:type="archimate:DiagramObject" id="953df02f" textAlignment="2" targetConnections="3e5daee9" archimateElement="6f004d5f">
-        <bounds x="20" y="20" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="18ac3b21" textAlignment="2" archimateElement="ffc01cd2">
-        <bounds x="170" y="20" width="120" height="55"/>
-        <sourceConnection xsi:type="archimate:Connection" id="3e5daee9" source="18ac3b21" target="953df02f" relationship="ff51ea33"/>
-      </child>
-    </element>
-    <element xsi:type="archimate:ArchimateDiagramModel" id="731c946d" name="Generated View for Departamento de Seguridad y Protección">
-      <child xsi:type="archimate:DiagramObject" id="dc01d202" textAlignment="2" archimateElement="ffc01cd2">
-        <bounds x="170" y="20" width="120" height="55"/>
-      </child>
-    </element>
   </folder>
 </archimate:model>
