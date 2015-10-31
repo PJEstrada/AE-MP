@@ -421,10 +421,10 @@
       <element xsi:type="archimate:Device" id="d8095dae" name="Servidores MP Linux"/>
     </folder>
     <folder name="Artefactos" id="d011ace7">
-      <element xsi:type="archimate:Artifact" id="5a4bc939" name="Formulario de Ingreso de Víctima"/>
+      <element xsi:type="archimate:Artifact" id="5a4bc939" name="Formulario de Ingreso de Víctima (EJB)"/>
       <element xsi:type="archimate:Artifact" id="a7f3b1cf" name="Formulario Denuncia (EJB) "/>
-      <element xsi:type="archimate:Artifact" id="ee9eed80" name="Formulario de Protección de Testigo"/>
-      <element xsi:type="archimate:Artifact" id="d9ff31b7" name="Informe Investigación"/>
+      <element xsi:type="archimate:Artifact" id="ee9eed80" name="Formulario de Protección de Testigo (EJB)"/>
+      <element xsi:type="archimate:Artifact" id="d9ff31b7" name="Informe Investigación (EJB)"/>
       <element xsi:type="archimate:Artifact" id="fe34309b" name="Registro de Evidencias (EJB)"/>
       <element xsi:type="archimate:Artifact" id="5b735c0a" name="Registro de Inventario (EJB)"/>
       <element xsi:type="archimate:Artifact" id="56fbfb08" name="Reporte Estadístico (EJB)"/>
