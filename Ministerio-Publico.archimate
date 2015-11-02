@@ -297,12 +297,12 @@
       <element xsi:type="archimate:BusinessInteraction" id="aa0db30f" name="Realizar Dictámenes de Fallecidos"/>
       <element xsi:type="archimate:BusinessInteraction" id="1d4cb754" name="Realizar Dictámenes Generales"/>
       <element xsi:type="archimate:BusinessInteraction" id="4764d608" name="Realizar Sentencia de Expedientes"/>
+      <element xsi:type="archimate:BusinessInteraction" id="4aedef12" name="Consulta de Expedientes"/>
+      <element xsi:type="archimate:BusinessCollaboration" id="c4e8b45a" name="Control de Llamadas"/>
+      <element xsi:type="archimate:BusinessCollaboration" id="f06458ba" name="Gestión de Expedientes Públicos"/>
+      <element xsi:type="archimate:BusinessInteraction" id="44215005" name="Reporte de Control de Llamadas de Centros Carcelarios"/>
+      <element xsi:type="archimate:BusinessInteraction" id="a81e9c67" name="Validación de Expedientes"/>
     </folder>
-    <element xsi:type="archimate:BusinessCollaboration" id="f06458ba" name="Gestión de Expedientes Públicos"/>
-    <element xsi:type="archimate:BusinessInteraction" id="4aedef12" name="Consulta de Expedientes"/>
-    <element xsi:type="archimate:BusinessInteraction" id="a81e9c67" name="Validación de Expedientes"/>
-    <element xsi:type="archimate:BusinessCollaboration" id="c4e8b45a" name="Control de Llamadas"/>
-    <element xsi:type="archimate:BusinessInteraction" id="44215005" name="Reporte de Control de Llamadas de Centros Carcelarios"/>
   </folder>
   <folder name="Application" id="ca9b11c5" type="application">
     <folder name="Componentes de Aplicación" id="55112be8">

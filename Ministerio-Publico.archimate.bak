@@ -457,7 +457,9 @@
       <element xsi:type="archimate:Artifact" id="95fcdcde" name="Reporte Financiero (EJB)"/>
     </folder>
   </folder>
-  <folder name="Motivation" id="3c8e69b3" type="motivation"/>
+  <folder name="Motivation" id="3c8e69b3" type="motivation">
+    <element xsi:type="archimate:Requirement" id="58fc90c8" name="Java EE (Lenguaje Oficial)"/>
+  </folder>
   <folder name="Implementation &amp; Migration" id="b6eb381e" type="implementation_migration">
     <element xsi:type="archimate:WorkPackage" id="a7decff7"/>
   </folder>
@@ -1111,6 +1113,7 @@
     <element xsi:type="archimate:AggregationRelationship" id="36117c83" source="c4e8b45a" target="8c33a7ff"/>
     <element xsi:type="archimate:AggregationRelationship" id="abdbfb70" source="c4e8b45a" target="7e7630f4"/>
     <element xsi:type="archimate:AssignmentRelationship" id="a776f3e3" source="c4e8b45a" target="44215005"/>
+    <element xsi:type="archimate:AssociationRelationship" id="4c2818f4" source="d8095dae" target="58fc90c8"/>
   </folder>
   <folder name="Views" id="499f9270" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" id="6acee066" name="4. Función de Negocio A">
@@ -3956,6 +3959,9 @@ Naranja --- Actores Externos</content>
       </child>
       <child xsi:type="archimate:DiagramObject" id="b1c4c0a2" textAlignment="2" archimateElement="d8095dae">
         <bounds x="720" y="600" width="2641" height="432"/>
+        <sourceConnection xsi:type="archimate:Connection" id="25c23ddb" source="b1c4c0a2" target="568e90f8" relationship="4c2818f4">
+          <bendpoint startX="-1428" startY="-180" endY="146"/>
+        </sourceConnection>
         <child xsi:type="archimate:DiagramObject" id="82ff75f9" textAlignment="2" archimateElement="79e118ad">
           <bounds x="60" y="48" width="2389" height="288"/>
           <child xsi:type="archimate:DiagramObject" id="7d6d6e3e" textAlignment="2" archimateElement="3cd93e37">
@@ -4116,6 +4122,9 @@ Naranja --- Actores Externos</content>
       </child>
       <child xsi:type="archimate:DiagramObject" id="836b42e6" textAlignment="2" targetConnections="9c55db28" archimateElement="1321a457">
         <bounds x="804" y="192" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="568e90f8" textAlignment="2" targetConnections="25c23ddb" archimateElement="58fc90c8">
+        <bounds x="552" y="464" width="120" height="55"/>
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" id="824c7764" name="9. Perspectiva Estructura de Información">
