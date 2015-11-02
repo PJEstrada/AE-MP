@@ -307,7 +307,7 @@
       <element xsi:type="archimate:ApplicationComponent" id="748039ae" name="Sistema de Control de PNC"/>
       <element xsi:type="archimate:ApplicationComponent" id="9a4be2d0" name="Sistema de Control de Derivaciones"/>
       <element xsi:type="archimate:ApplicationComponent" id="5b3a3c49" name="Sistema de Control de Evidencias en Bodegas"/>
-      <element xsi:type="archimate:ApplicationComponent" id="7264938e" name="Sistema de Investigadores"/>
+      <element xsi:type="archimate:ApplicationComponent" id="7264938e" name="6Sistema de Investigadores"/>
       <element xsi:type="archimate:ApplicationComponent" id="2b8ec878" name="Registros de PNC"/>
       <element xsi:type="archimate:ApplicationComponent" id="a4cc81bd" name="Sistemas de Control de Sociedades Civiles"/>
       <element xsi:type="archimate:ApplicationComponent" id="2be2b285" name="Registros Organismo Judicial"/>
