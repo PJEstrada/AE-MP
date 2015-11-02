@@ -5707,23 +5707,23 @@ Naranja --- Actores Externos</content>
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" id="06b97fff" name="18. Perspectiva de Dependencias y Colaboraciones Externas">
-      <child xsi:type="archimate:DiagramObject" id="e6fdbdd0" textAlignment="2" targetConnections="ddd60347 44b73d50 65c2ee6f 6b16dcff 03326b10 295d9c3d" archimateElement="8c33a7ff">
-        <bounds x="600" y="480" width="265" height="193"/>
+      <child xsi:type="archimate:DiagramObject" id="e6fdbdd0" textAlignment="2" targetConnections="ddd60347 44b73d50 65c2ee6f 6b16dcff 03326b10 295d9c3d" fillColor="#ff8080" archimateElement="8c33a7ff">
+        <bounds x="600" y="360" width="265" height="193"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="3e66c783" textAlignment="2" targetConnections="57a1102a 368c3abf" archimateElement="63406365">
-        <bounds x="36" y="540" width="205" height="73"/>
+      <child xsi:type="archimate:DiagramObject" id="3e66c783" textAlignment="2" targetConnections="57a1102a 368c3abf" fillColor="#ff8080" archimateElement="63406365">
+        <bounds x="36" y="420" width="205" height="73"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="001e89a9" textAlignment="2" targetConnections="94418992 36d74cd2" archimateElement="dded29ed">
-        <bounds x="1212" y="540" width="204" height="73"/>
+      <child xsi:type="archimate:DiagramObject" id="001e89a9" textAlignment="2" targetConnections="94418992 36d74cd2" fillColor="#ff8080" archimateElement="dded29ed">
+        <bounds x="1212" y="420" width="204" height="73"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="71bfd5ca" textAlignment="2" targetConnections="0e18f51e" archimateElement="7e7630f4">
-        <bounds x="602" y="156" width="260" height="73"/>
+      <child xsi:type="archimate:DiagramObject" id="71bfd5ca" textAlignment="2" targetConnections="0e18f51e" fillColor="#ff8080" archimateElement="7e7630f4">
+        <bounds x="602" y="36" width="260" height="73"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="138b8951" textAlignment="2" targetConnections="34fbbb75" archimateElement="7b683144">
-        <bounds x="600" y="936" width="264" height="73"/>
+      <child xsi:type="archimate:DiagramObject" id="138b8951" textAlignment="2" targetConnections="34fbbb75" fillColor="#ff8080" archimateElement="7b683144">
+        <bounds x="600" y="816" width="264" height="73"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="498e6c47" textAlignment="2" archimateElement="6abfd74a">
-        <bounds x="360" y="486" width="120" height="55"/>
+        <bounds x="360" y="366" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="ddd60347" source="498e6c47" target="e6fdbdd0" relationship="92508314"/>
         <sourceConnection xsi:type="archimate:Connection" id="57a1102a" source="498e6c47" target="3e66c783" relationship="d08bf25f">
           <bendpoint startY="64" endX="283"/>
@@ -5734,16 +5734,16 @@ Naranja --- Actores Externos</content>
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="6d2ebef3" textAlignment="2" targetConnections="17480e85" archimateElement="1d4cb754">
-        <bounds x="360" y="384" width="120" height="55"/>
+        <bounds x="360" y="264" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="5dab65a9" textAlignment="2" targetConnections="15e27bb3" archimateElement="aa0db30f">
-        <bounds x="204" y="384" width="120" height="55"/>
+        <bounds x="204" y="264" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="9e46c4f7" textAlignment="2" targetConnections="a6dd1c09" archimateElement="006eb341">
-        <bounds x="354" y="708" width="120" height="55"/>
+        <bounds x="354" y="588" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="b3120e41" textAlignment="2" archimateElement="132b516f">
-        <bounds x="348" y="612" width="132" height="48"/>
+        <bounds x="348" y="492" width="132" height="48"/>
         <sourceConnection xsi:type="archimate:Connection" id="368c3abf" source="b3120e41" target="3e66c783" relationship="7fe916d2">
           <bendpoint startX="7" startY="-60" endX="283"/>
         </sourceConnection>
@@ -5757,13 +5757,13 @@ Naranja --- Actores Externos</content>
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="73c8e82f" textAlignment="2" targetConnections="ec591d6e" archimateElement="302caa89">
-        <bounds x="192" y="708" width="120" height="55"/>
+        <bounds x="192" y="588" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="47528344" textAlignment="2" targetConnections="57397313" archimateElement="497ba0e8">
-        <bounds x="36" y="708" width="120" height="55"/>
+        <bounds x="36" y="588" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="e37d7b11" textAlignment="2" archimateElement="84dfa0cc">
-        <bounds x="960" y="486" width="156" height="55"/>
+        <bounds x="960" y="366" width="156" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="65c2ee6f" source="e37d7b11" target="e6fdbdd0" relationship="484b9f06"/>
         <sourceConnection xsi:type="archimate:Connection" id="94418992" source="e37d7b11" target="001e89a9" relationship="5789e50b">
           <bendpoint startX="-5" startY="64" endX="-281"/>
@@ -5774,7 +5774,7 @@ Naranja --- Actores Externos</content>
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="e788ed9e" textAlignment="2" archimateElement="2012e30e">
-        <bounds x="978" y="608" width="120" height="55"/>
+        <bounds x="978" y="488" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="6b16dcff" source="e788ed9e" target="e6fdbdd0" relationship="dba5d22f"/>
         <sourceConnection xsi:type="archimate:Connection" id="36d74cd2" source="e788ed9e" target="001e89a9" relationship="c75befbb">
           <bendpoint startX="-5" startY="-58" endX="-281"/>
@@ -5785,32 +5785,32 @@ Naranja --- Actores Externos</content>
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="6cb3b265" textAlignment="2" targetConnections="ab32361c" archimateElement="fc569ca2">
-        <bounds x="977" y="384" width="120" height="55"/>
+        <bounds x="977" y="264" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="572613b1" textAlignment="2" targetConnections="d5b9f839" archimateElement="c65d29e9">
-        <bounds x="1152" y="384" width="120" height="55"/>
+        <bounds x="1152" y="264" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="9dd1c351" textAlignment="2" targetConnections="d7992e79" archimateElement="f4f4cef6">
-        <bounds x="977" y="708" width="120" height="55"/>
+        <bounds x="977" y="588" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="f584c9da" textAlignment="2" targetConnections="e9d30f61" archimateElement="4764d608">
-        <bounds x="1152" y="708" width="120" height="55"/>
+        <bounds x="1152" y="588" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="8484bd22" textAlignment="2" archimateElement="f06458ba">
-        <bounds x="673" y="816" width="120" height="55"/>
+        <bounds x="673" y="696" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="03326b10" source="8484bd22" target="e6fdbdd0" relationship="70dcb7ff"/>
         <sourceConnection xsi:type="archimate:Connection" id="34fbbb75" source="8484bd22" target="138b8951" relationship="4e1dcf92"/>
         <sourceConnection xsi:type="archimate:Connection" id="c37f8de8" source="8484bd22" target="4c1b66e1" relationship="350a7aa4"/>
         <sourceConnection xsi:type="archimate:Connection" id="8a9868b3" source="8484bd22" target="8ecaf6b6" relationship="8b8bd527"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="8ecaf6b6" textAlignment="2" targetConnections="8a9868b3" archimateElement="4aedef12">
-        <bounds x="864" y="816" width="120" height="55"/>
+        <bounds x="864" y="696" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="4c1b66e1" textAlignment="2" targetConnections="c37f8de8" archimateElement="a81e9c67">
-        <bounds x="484" y="816" width="120" height="55"/>
+        <bounds x="484" y="696" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="3edafb1b" textAlignment="2" archimateElement="c4e8b45a">
-        <bounds x="672" y="324" width="120" height="55"/>
+        <bounds x="672" y="204" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="295d9c3d" source="3edafb1b" target="e6fdbdd0" relationship="36117c83"/>
         <sourceConnection xsi:type="archimate:Connection" id="0e18f51e" source="3edafb1b" target="71bfd5ca" relationship="abdbfb70"/>
         <sourceConnection xsi:type="archimate:Connection" id="bdd7f7ab" source="3edafb1b" target="5874fb5a" relationship="a776f3e3">
@@ -5819,7 +5819,7 @@ Naranja --- Actores Externos</content>
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="5874fb5a" textAlignment="2" targetConnections="bdd7f7ab" archimateElement="44215005">
-        <bounds x="956" y="252" width="160" height="60"/>
+        <bounds x="956" y="132" width="160" height="60"/>
       </child>
     </element>
   </folder>
