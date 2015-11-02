@@ -5223,6 +5223,12 @@ Naranja --- Actores Externos</content>
         <child xsi:type="archimate:DiagramObject" id="3b0b3a8f" textAlignment="2" archimateElement="4d8b4b10">
           <bounds x="132" y="144" width="120" height="55"/>
         </child>
+        <child xsi:type="archimate:DiagramObject" id="b24b309e" textAlignment="2" archimateElement="36145668">
+          <bounds x="24" y="204" width="144" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="007a1546" textAlignment="2" archimateElement="900fa769">
+          <bounds x="216" y="204" width="120" height="55"/>
+        </child>
       </child>
       <child xsi:type="archimate:DiagramObject" id="f462f29e" textAlignment="2" archimateElement="0d3cdd56">
         <bounds x="2652" y="72" width="216" height="289"/>
@@ -5232,15 +5238,21 @@ Naranja --- Actores Externos</content>
         <child xsi:type="archimate:DiagramObject" id="24360dc7" textAlignment="2" archimateElement="b7e185c3">
           <bounds x="48" y="156" width="120" height="55"/>
         </child>
+        <child xsi:type="archimate:DiagramObject" id="c66dd1e2" textAlignment="2" archimateElement="a20169a4">
+          <bounds x="48" y="216" width="120" height="55"/>
+        </child>
       </child>
       <child xsi:type="archimate:DiagramObject" id="97b92015" textAlignment="2" archimateElement="7db558b9">
-        <bounds x="2304" y="561" width="300" height="281"/>
+        <bounds x="2220" y="538" width="300" height="281"/>
         <child xsi:type="archimate:DiagramObject" id="e2cde62e" textAlignment="2" archimateElement="942af08d">
           <bounds x="108" y="60" width="120" height="55"/>
         </child>
+        <child xsi:type="archimate:DiagramObject" id="8308b382" textAlignment="2" archimateElement="3ab7ddc7">
+          <bounds x="120" y="144" width="132" height="73"/>
+        </child>
       </child>
       <child xsi:type="archimate:DiagramObject" id="24b00f02" textAlignment="2" archimateElement="df2d47b4">
-        <bounds x="2676" y="570" width="240" height="273"/>
+        <bounds x="2568" y="503" width="240" height="351"/>
         <child xsi:type="archimate:DiagramObject" id="c2bd7ecc" textAlignment="2" archimateElement="193af4ab">
           <bounds x="60" y="48" width="120" height="55"/>
         </child>
@@ -5249,6 +5261,9 @@ Naranja --- Actores Externos</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="606c76a8" textAlignment="2" archimateElement="35d27424">
           <bounds x="60" y="192" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="6d58cb40" textAlignment="2" archimateElement="79addac6">
+          <bounds x="60" y="288" width="120" height="55"/>
         </child>
       </child>
       <child xsi:type="archimate:DiagramObject" id="2ea90dac" textAlignment="2" archimateElement="64bb1cb5">
@@ -5263,41 +5278,14 @@ Naranja --- Actores Externos</content>
           <bounds x="67" y="192" width="120" height="55"/>
         </child>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="b5ae94f6" textAlignment="2" archimateElement="bb8feec4">
-        <bounds x="2124" y="570" width="120" height="55"/>
+      <child xsi:type="archimate:Note" id="b8e27f24" textAlignment="1">
+        <bounds x="2112" y="32" width="185" height="80"/>
+        <content>SIAMP</content>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="f2b046f8" textAlignment="2" archimateElement="0237f229">
-        <bounds x="2124" y="636" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="66b217fc" textAlignment="2" archimateElement="5d62a209">
-        <bounds x="2124" y="720" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="d8e72302" textAlignment="2" archimateElement="4763b983">
-        <bounds x="2136" y="792" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="61db9a4b" textAlignment="2" archimateElement="433b6c94">
-        <bounds x="2124" y="864" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="b24b309e" textAlignment="2" archimateElement="36145668">
-        <bounds x="2112" y="936" width="144" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="c9cfa4ed" textAlignment="2" archimateElement="cebb9b25">
-        <bounds x="2413" y="866" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="6d58cb40" textAlignment="2" archimateElement="79addac6">
-        <bounds x="2316" y="960" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="007a1546" textAlignment="2" archimateElement="900fa769">
-        <bounds x="2371" y="1051" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="c66dd1e2" textAlignment="2" archimateElement="a20169a4">
-        <bounds x="2197" y="1051" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="8308b382" textAlignment="2" archimateElement="3ab7ddc7">
-        <bounds x="2401" y="1151" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="da0433de" textAlignment="2" archimateElement="28be4b7c">
-        <bounds x="2243" y="1140" width="120" height="55"/>
+      <child xsi:type="archimate:Note" id="07a1c5cb" textAlignment="1">
+        <bounds x="1058" y="32" width="185" height="80"/>
+        <content>SICOMP&#xD;
+</content>
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" id="db6fa95f" name="13. Perspectiva de Estructura de la Aplicación">
